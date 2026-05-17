@@ -1,0 +1,16 @@
+The Slipery Saucy Gauntlet of Sexy Champions x
+
+*The Roman Numeral at the end changes each game by +I.
+
+Goal: Be the last one standing!
+
+There are X number of games where X is the number of players.
+    *The games are played by order of 4xtu#1n.
+
+The player who looses the first game is eliminated and reciveds 1 point. The player who looses the second game is eliminated and recives 2 points, and so on. The winning player recives X number of points.
+
+Once a player is eliminated they put the # of points earned during the phase into the function to determine the # of drinks they get. Round to the nearest whole number.
+
+    # of Drinks = D(pts) = 3-((pts-1)/3)
+
+The final players team wins a recives 5 Zoinks per member!
