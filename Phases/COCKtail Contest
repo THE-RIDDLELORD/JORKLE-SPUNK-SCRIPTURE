@@ -1,0 +1,16 @@
+COCKtail Contest
+
+The player with the most points starts as the Guesser, followed by the player with the second most points.
+
+The Guesser is banished to a seperate room while the mixer is choosen and the drink is made.
+
+The mixer is choosen randomly by spin the bottle. The mixer creates a cocktail that they themselfs would like to drink.
+
+The Guesser then trys the drink and attempts to determine who the mixer is. The Guesser has 3 guesses. If guessed correctly on the:
+    1rst Guess => 3pts
+    2nd Guess => 2pts
+    3rd Guess => 1pt
+
+If the Guesser fails to identify the mixer they must finish the cocktail. If they do identify the mixer, then the mixer must finish the drink.
+
+Winner is determined by most points won during the phase!
