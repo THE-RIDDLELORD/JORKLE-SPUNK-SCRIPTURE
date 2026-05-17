@@ -1,0 +1,17 @@
+JORK OFF
+
+The players start the round by creating a 1 v 1 tournament bracket.
+
+Each round a player flips a coin:
+    if heads => They play Beer Ball
+    if tails => They play Beer Pong
+
+Beer Ball is player with 1 full solo cup of Beer.
+
+Beer Pong is played with 6 cups. Players may arrange the cups however they want.
+
+1 point is awarded for a round won!
+
+Winnier of the tournanment gets 3 points!
+
+No Violent Energy allowed! 1 drink per offense!
