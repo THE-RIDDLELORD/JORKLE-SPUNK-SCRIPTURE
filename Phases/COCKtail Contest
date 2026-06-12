@@ -11,6 +11,8 @@ The Guesser then trys the drink and attempts to determine who the mixer is. The 
     2nd Guess => 2pts
     3rd Guess => 1pt
 
+    *If there are less than 5 players, the guesser gets two guesses instead of three.
+
 If the Guesser fails to identify the mixer they must finish the cocktail. If they do identify the mixer, then the mixer must finish the drink.
 
 Winner is determined by most points won during the phase!
